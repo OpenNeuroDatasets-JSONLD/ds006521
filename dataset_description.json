@@ -1,0 +1,12 @@
+{
+  "Name": "Skull-Stripped T1-Weighted MRI of Huffaz and Non-Huffaz Brains",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "raw",
+  "License": "CC0-1.0",
+  "Authors": [
+    "Iqbal Jamaludin",
+    "Mohd Zulfaezal Che Azemin",
+    "Mohd Izzuddin Mohd Tamrin",
+    "Abdul Halim Sapuan"
+  ]
+}
